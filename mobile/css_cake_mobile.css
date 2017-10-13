@@ -58,7 +58,7 @@
 @keyframes boximg3 {
      0%   {left:-15vw;top:5000px;}
 	 25% {left:-15vw;top:5000px;}
-	  53%  {left:-15vw;top:1000px;}
+	  53%  {left:-15vw;top:5000px;}
 	  56%  {left:-15vw; top:-60px;}
 	   59%  {left:-15vw; top:0px;}
 	    75%  {left:-40vw; top:0px;}
@@ -341,7 +341,7 @@ clip: rect(0px, 100vw, 98vh, 0px);
 
 header h3 img { 
 	z-index: 0;
-		width: 350%;
+		width: 550%;
 	overflow: hidden;
 	animation-name: boximg3;
     animation-duration: 30s;
