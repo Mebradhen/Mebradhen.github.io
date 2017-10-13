@@ -99,8 +99,8 @@ body{
 }
 @font-face{
 	
-	    font-family: CarbonType;
-		src: url(Font/CarbonType.woff);
+	  	    font-family: CarbonType;
+		src: url(Font/AUdimat-Regular.woff);
 }
 /* menu -------------------------------*/
 li{
@@ -298,10 +298,10 @@ header h2 img{
 	margin-left: 20%;
 	margin-right: 20%;
 	position:relative;
-	top:20%;
+	top:25%;
 	clip: rect(0px, 100vw, 98vh, 0px);
 	font-family:CarbonType;
-	text-align:center; 
+	text-align:center;  
 }
  #title {
 	font-size:10vw;	
