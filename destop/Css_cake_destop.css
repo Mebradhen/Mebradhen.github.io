@@ -1217,13 +1217,22 @@ color:#c2c2c4;
 	float:left;
 	top:-0.5px;
 	margin-top:0px;
-	margin-left:20vw;
+	margin-left:3%;
 	position:relative;
 	width: 3vw;
 	height:3vw;
 	
 }
-
+.socsil #Somedia_footer4 img{
+	float:left;
+	top:-0.5px;
+	margin-top:0px;
+	margin-left:16vw;
+	position:relative;
+	width: 3vw;
+	height:3vw;
+	
+}
 .socsil #Somedia_footer2 img{
 	float:left;
 	margin-left:3%;

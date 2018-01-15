@@ -142,7 +142,27 @@ function start() {
 	}
 );
 
+  $("#Somedia_footer4 img").hover(function (){
+ 
 
+   $("#Somedia_footer4 img").stop().animate({
+       top:'-0.3vw',
+	 backgroundColor:'#1aa3ff',
+	     opacity:"0.4",
+
+    });
+
+},
+	function (){
+ 
+   
+  $("#Somedia_footer4 img").stop().animate({
+        top:'0vw',
+		   opacity:"1",
+
+    });
+	}
+);
   $("#Somedia_footer img").hover(function (){
  
 
