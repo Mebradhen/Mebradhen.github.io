@@ -24,6 +24,7 @@ function start() {
 
 
   
+  
  $("#clickhere3").click( //event listener for mouse click 
  
   function(){
@@ -311,6 +312,47 @@ $("#clickhere3").stop().animate({
 },
 	function (){
 $("#clickhere3").stop().animate({
+     opacity:"0.2",	 
+	 backgroundColor:"transparent",
+    });
+	});
+	
+		 $("#KaveKeuNui").hover(function (){
+ 
+	
+   $("#KaveKeuNui").stop().animate({
+       opacity:"0.2",
+    });
+	$("#clickhere4").stop().animate({
+     opacity:"1",
+    });
+
+},
+	function (){
+ 
+   
+  $("#KaveKeuNui").stop().animate({
+     opacity:"0.5",
+    });
+$("#clickhere4").stop().animate({
+     opacity:"0.2",
+	  backgroundColor:"transparent",
+    });
+	}
+);
+	
+	
+		 $("#clickhere4").hover(function (){
+ 
+
+	$("#clickhere4").stop().animate({
+     opacity:"1",
+	 backgroundColor:"#1aa3ff",
+    });
+
+},
+	function (){
+$("#clickhere4").stop().animate({
      opacity:"0.2",	 
 	 backgroundColor:"transparent",
     });
