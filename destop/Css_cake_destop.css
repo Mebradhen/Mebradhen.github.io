@@ -786,6 +786,10 @@ padding-top:100px;
 			width:20vw;
 			
 		}		
+		
+		
+		
+		
 		#thePar1{
 			margin-left:27vw;
 			margin-right:2vw;
@@ -881,7 +885,7 @@ padding-top:100px;
 			border: 2px solid white;
 		}
 		
-					#KaveKeuNui{
+					#thePar4{
 			opacity:0.5;
 			background-color:black;
 			width:70vw;
@@ -906,6 +910,56 @@ padding-top:100px;
 			width:10vw;
 			border: 2px solid white;
 		}
+			
+			#KaveKeuNui{
+			opacity:0.5;
+			background-color:black;
+			width:70vw;
+			height:25vw;
+			top:-20vw;
+			font-size:40px;	
+			position:relative;
+			left:22vw;
+			margin:5vw;
+			margin-bottom:-30vw;
+		}
+
+			#AnAspieLifeBeginnings{
+			opacity:0.5;
+			background-color:black;
+			width:70vw;
+			height:25vw;
+			top:-20vw;
+			font-size:40px;	
+			position:relative;
+			left:22vw;
+			margin:5vw;
+			margin-bottom:-30vw;
+		}
+		
+		
+				#clickhere5{
+			opacity:0.5;
+			top:-10vw;
+			font-size:2vw;	
+			position:relative;
+			left:50vw;
+			text-align:center;
+			margin:5vw;
+			color:white;
+			width:10vw;
+			border: 2px solid white;
+		}
+		
+			#thelogo_aspie{
+			opacity:1;
+			top:-32.5vw;
+			font-size:2vw;	
+			position:relative;
+			left:23vw;
+			width:20vw;
+			margin-bottom:-6vw;
+		}	
 		
 		#thelogo3{
 			opacity:1;
@@ -924,6 +978,7 @@ padding-top:100px;
 			position:relative;
 			margin-bottom:-10vw;
 		}
+
 		#Cocges{
 		position:absolute;
 		width:20vw;

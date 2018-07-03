@@ -357,6 +357,53 @@ $("#clickhere4").stop().animate({
 	 backgroundColor:"transparent",
     });
 	});
+	
+	
+	
+	
+	
+	
+	
+	 $("#AnAspieLifeBeginnings").hover(function (){
+ 
+	
+   $("#AnAspieLifeBeginnings").stop().animate({
+       opacity:"0.2",
+    });
+	$("#clickhere5").stop().animate({
+     opacity:"1",
+    });
+
+},
+	function (){
+ 
+   
+  $("#AnAspieLifeBeginnings").stop().animate({
+     opacity:"0.5",
+    });
+$("#clickhere5").stop().animate({
+     opacity:"0.2",
+	  backgroundColor:"transparent",
+    });
+	}
+);
+	
+	
+		 $("#clickhere5").hover(function (){
+ 
+
+	$("#clickhere5").stop().animate({
+     opacity:"1",
+	 backgroundColor:"#1aa3ff",
+    });
+
+},
+	function (){
+$("#clickhere5").stop().animate({
+     opacity:"0.2",	 
+	 backgroundColor:"transparent",
+    });
+	});
 }
 	
 	
