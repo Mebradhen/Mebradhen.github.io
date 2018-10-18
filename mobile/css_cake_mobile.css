@@ -418,6 +418,7 @@ header h4 img{
 		position:relative;
 		top:4vw;
 		padding-left:1.2vw;
+				text-align:center;
 		padding-right:1.2vw;
 		font-size:3vw;
 		}
@@ -448,6 +449,7 @@ header h4 img{
 		font-family:arial;
 		position:relative;
 		top:4vw;
+			text-align:center;
 		padding-left:1.2vw;
 		padding-right:1.2vw;
 			font-size:3vw;
@@ -480,6 +482,7 @@ header h4 img{
 		font-family:arial;
 		position:relative;
 		top:4vw;
+		text-align:center;
 		padding-left:1.2vw;
 		padding-right:1.2vw;
 			font-size:3vw;
