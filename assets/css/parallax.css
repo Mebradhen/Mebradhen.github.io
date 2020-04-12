@@ -1,0 +1,47 @@
+
+
+.parallax-layer {
+	position: absolute;
+    left: 0;
+    width: 100%;
+    background-size: auto auto;
+    background-repeat: repeat;
+	
+}
+
+
+
+  .layer-1 {
+    background-image: url(../images/layer_pall_1.png);
+    height: 1000px;
+	top: -200px;
+  }
+  
+
+  .layer-2  {
+    background-image: url(../images/layer_pall_2.png);
+    height: 1000px;
+	top: -150px;
+  }
+  
+
+  .layer-3  {
+    background-image: url(../images/layer_pall_4.png);
+    height: 1000px;
+	top: -20px;
+  }
+  
+
+  .layer-5  {
+    background-image: url(../images/layer_pall_5.png);
+    height: 1000px;
+	top: 700px;
+  }
+  
+
+  .layer-6  {
+	background-image: url('../images/layer_pall_6.png');
+    height: 1000px;
+	top: 1760px;
+  }
+  

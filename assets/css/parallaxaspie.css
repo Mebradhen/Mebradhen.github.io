@@ -1,0 +1,26 @@
+
+
+.parallax-layer {
+	position: absolute;
+    left: 0;
+    width: 100%;
+    background-size: auto auto;
+    background-repeat: repeat;
+	
+}
+
+
+
+  .layer-1 {
+    background-image: url(../images/layer_pall_1_Aspie.png);
+    height: 1000px;
+	top: -340px;
+  }
+  
+
+  .layer-2  {
+    background-image: url(../images/layer_pall_2_aspie.png);
+    height: 1000px;
+	top: -340px;
+  }
+  
